@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi I'm Samrat 😀
 
-<!--
-**Samrat-Khan/Samrat-Khan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+##### A Student || Programmer || App Developer || Web Developer
+___
+ 
+ 
+-💻 Tech that I love : Flutter, IOT & ML
+-📚 I'm currently learning everything 
+-🎮 Games that matter for me Pokemon Go
+-💡 Ask me about Flutter stuff
+-🤣 Fun fact: Still watching Doremon 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
