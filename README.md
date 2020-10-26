@@ -9,5 +9,6 @@ ___
 -📚 I'm currently learning everything \
 -🎮 Games that matter for me Pokemon Go\
 -💡 Ask me about Flutter stuff\
--🤣 Fun fact: Still watching Doremon \
+-🤣 Fun fact: Still watching Doremon
+
 
