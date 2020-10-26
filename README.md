@@ -5,9 +5,9 @@
 ___
  
  
--💻 Tech that I love : Flutter, IOT & ML
--📚 I'm currently learning everything 
--🎮 Games that matter for me Pokemon Go
--💡 Ask me about Flutter stuff
--🤣 Fun fact: Still watching Doremon 
+-💻 Tech that I love : Flutter, IOT & ML\
+-📚 I'm currently learning everything \
+-🎮 Games that matter for me Pokemon Go\
+-💡 Ask me about Flutter stuff\
+-🤣 Fun fact: Still watching Doremon \
 
